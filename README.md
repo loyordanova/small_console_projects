@@ -19,6 +19,8 @@ A simple implementation of the classic game Connect Four, playable in the consol
 <img width="303" alt="Screenshot 2024-04-13 at 0 01 12" src="https://github.com/loyordanova/small_console_projects/assets/122961637/6be02199-637c-42bd-9706-1bdb4c02eedb">
 </p>
 
+---
+
 <p align="center">
   <b>Tic-Tac-Toe Console Game</b>
 </p>
