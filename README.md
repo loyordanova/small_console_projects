@@ -58,7 +58,7 @@
 
 <p align="center"><strong>Overview</strong></p>
 
-<p align="center">The program creates a secure random password of a given length by combining uppercase and lowercase letters, digits, and special characters. It relies on the secrets module, ensuring cryptographic security for sensitive tasks like account authentication or cryptographic key generation..</p>
+<p align="center">The program creates a secure random password of a given length by combining uppercase and lowercase letters, digits, and special characters. It relies on the secrets module, ensuring cryptographic security for sensitive tasks like account authentication or cryptographic key generation.</p>
 
 <p align="center">
 📄 password_generator.py 📄
