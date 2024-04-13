@@ -41,7 +41,7 @@
 <h1 align="center">Secter Password Generator</h1>
 
 <p align="center">
-  🗝
+  🗝 🗝 🗝
 </p>
 
 <p align="center">
