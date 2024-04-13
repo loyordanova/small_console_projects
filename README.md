@@ -68,4 +68,28 @@
   <img width="124" alt="Screenshot 2024-04-13 at 11 21 28" src="https://github.com/loyordanova/small_console_projects/assets/122961637/a54d60be-3b74-45a9-a8c2-686f084a8c05">
 </p>
 
+---
+
+<h1 align="center">Guess The Capital Quiz Game</h1>
+
+<p align="center">
+  🇨🇲 🇨🇦 🇮🇨 🇨🇻 🇧🇶 🇰🇾 🇨🇫
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM2aThiejR3c2lhc3l4YTVvbm11OG84cHg1N2l0ZmxueDN6enZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0huDAdTHsuzT50D4in/giphy.gif" width="50%">
+</p>
+
+<p align="center"><strong>Overview</strong></p>
+
+<p align="center">The program is a quiz game that tests knowledge of capital cities worldwide. It shuffles questions, presents them with multiple-choice answers, checks responses, and provides feedback. It also includes a delay between questions for smoother gameplay and displays the total score at the end.</p>
+
+<p align="center">
+📄 capitals_quiz_game.py 📄
+</p>
+
+
+<img width="407" alt="Screenshot 2024-04-13 at 13 17 32" src="https://github.com/loyordanova/small_console_projects/assets/122961637/47035cb9-0baf-40ea-8db4-a4213abaf905">
+
+---
 
