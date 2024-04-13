@@ -53,6 +53,10 @@
 <p align="center">The program creates a secure random password of a given length by combining uppercase and lowercase letters, digits, and special characters. It relies on the secrets module, ensuring cryptographic security for sensitive tasks like account authentication or cryptographic key generation..</p>
 
 <p align="center">
+📄 password_generator 📄
+</p>
+
+<p align="center">
   <img width="124" alt="Screenshot 2024-04-13 at 11 21 28" src="https://github.com/loyordanova/small_console_projects/assets/122961637/a54d60be-3b74-45a9-a8c2-686f084a8c05">
 </p>
 
