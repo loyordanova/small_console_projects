@@ -89,7 +89,9 @@
 </p>
 
 
+<p align="center">
 <img width="407" alt="Screenshot 2024-04-13 at 13 17 32" src="https://github.com/loyordanova/small_console_projects/assets/122961637/47035cb9-0baf-40ea-8db4-a4213abaf905">
+</p>
 
 ---
 
