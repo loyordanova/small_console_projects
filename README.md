@@ -35,3 +35,25 @@
 <p align="center">
   <img width="458" alt="Screenshot 2024-04-13 at 0 14 38" src="https://github.com/loyordanova/small_console_projects/assets/122961637/6e951873-a8c5-4ed8-9139-da8e965c9c3d">
 </p>
+
+---
+
+<h1 align="center">Secter Password Generator</h1>
+
+<p align="center">
+  🗝
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdtMXpqa3UwdDc3aXFhcTRrdXg5emc1eGdjYmR2cm5pOG52NzI5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dVL8o5p0S5jVpFg9Gj/giphy.gif" width="50%">
+</p>
+
+<p align="center"><strong>Overview</strong></p>
+
+<p align="center">The program creates a secure random password of a given length by combining uppercase and lowercase letters, digits, and special characters. It relies on the secrets module, ensuring cryptographic security for sensitive tasks like account authentication or cryptographic key generation..</p>
+
+<p align="center">
+  <img width="124" alt="Screenshot 2024-04-13 at 11 21 28" src="https://github.com/loyordanova/small_console_projects/assets/122961637/a54d60be-3b74-45a9-a8c2-686f084a8c05">
+</p>
+
+
